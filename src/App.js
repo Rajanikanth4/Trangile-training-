@@ -11,7 +11,7 @@ import Policy from './components/Policy';
 import Privacy from './components/Privacy';
 function App() {
   return (
-    <div className="App">
+    <div className="App" >
         {/* <Home technology="React JS" />
         <Homeclass period="1 month" />
         <About company="trangile" />

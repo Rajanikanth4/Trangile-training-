@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+
 }
 
 .App-logo {
@@ -84,12 +85,10 @@
   left: 412px;
   top: -314px;
   font-size: 22px;
-  display: block;
   margin-block-start: 2em;
   margin-block-end: -12em;
   margin-inline-start: -25px;
   margin-inline-end: 5px;
-  /* width:50px;   */
 }
 .div3{
   position: relative;
@@ -108,9 +107,10 @@
   left: 412px;
   top: -242px;
   font-size: 22px;
+  text-justify: inter-word;
   display: block;
   margin-block-start: 2em;
-  margin-block-end: -12em;
+  margin-block-end: -10em;
   margin-inline-start: -25px;
   margin-inline-end: 5px;
   /* width:50px;   */
