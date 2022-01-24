@@ -81,8 +81,32 @@
 }
 .div2{
   position: relative;
-  left: 408px;
-  top: -238px;
+  left: 412px;
+  top: -314px;
+  font-size: 22px;
+  display: block;
+  margin-block-start: 2em;
+  margin-block-end: -12em;
+  margin-inline-start: -25px;
+  margin-inline-end: 5px;
+  /* width:50px;   */
+}
+.div3{
+  position: relative;
+  left: 412px;
+  top: -32px;
+  font-size: 22px;
+  display: block;
+  margin-block-start: 3em;
+  margin-block-end: -2em;
+  margin-inline-start: -406px;
+  margin-inline-end: 5px;
+
+}
+.div4{
+  position: relative;
+  left: 412px;
+  top: -242px;
   font-size: 22px;
   display: block;
   margin-block-start: 2em;

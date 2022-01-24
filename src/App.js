@@ -9,7 +9,6 @@ import Contact from './components/Contact';
 import Termsandconditions from './components/Termsandconditons';
 import Policy from './components/Policy';
 import Privacy from './components/Privacy';
-// import Aboutprop from './components/Aboutprop';
 function App() {
   return (
     <div className="App">
@@ -19,7 +18,6 @@ function App() {
         <Aboutclass training="CEPT training instituion" /> */}
         <Home1 />
         <About1 />
-        {/* <Aboutprop /> */}
         <Contact />
         <Termsandconditions />
         <Policy />
