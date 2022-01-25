@@ -64,14 +64,18 @@
 }
 .div1{
   position: relative;
-  left: 391px;
-  top: -7px;
-  font-size: 25px;
+  left: 12px;
+  top: 219px;
+  font-size: 20px;
   display: block;
   margin-block-start: -11em;
-  margin-block-end: 1em;
+  margin-block-end: 9em;
   margin-inline-start: -6px;
   margin-inline-end: -4px;
+  text-indent: -2px;
+  text-align: justify;
+
+
 }
 .image2{
   position: relative;
@@ -81,14 +85,18 @@
   width: 381px;
 }
 .div2{
-  position: relative;
+  position: relative; 
   left: 412px;
-  top: -314px;
-  font-size: 22px;
+  top: -311px;
+  font-size: justify;
   margin-block-start: 2em;
   margin-block-end: -12em;
-  margin-inline-start: -25px;
+  margin-inline-start: -18px;
   margin-inline-end: 5px;
+  text-indent: 2px;
+  text-align: justify;
+
+
 }
 .div3{
   position: relative;
@@ -105,15 +113,16 @@
 .div4{
   position: relative;
   left: 412px;
-  top: -242px;
-  font-size: 22px;
+  top: -237px;
+  font-size: 20px;
   text-justify: inter-word;
   display: block;
   margin-block-start: 2em;
   margin-block-end: -10em;
   margin-inline-start: -25px;
   margin-inline-end: 5px;
-  /* width:50px;   */
+  text-align: justify;
+  text-indent: 2px;
 }
 
 

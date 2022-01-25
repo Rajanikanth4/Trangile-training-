@@ -3,7 +3,7 @@ function About(){
     return(
         <div>
             <h1 className="ff1" >Its About Me</h1>
-      <div style={{float:"left"}}>
+          <div>
                 <img className="image"src="images/about.jpg" alt="about" />
                 <Aboutprop  className='div1'/>
             </div>
